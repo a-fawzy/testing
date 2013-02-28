@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<survey>
+    <client>
+        <info>
+            <name>Hany</name>
+            <mobile>0123434590</mobile>
+        </info>
+        <products>
+            <product id="1">
+                <rating>8</rating>
+            </product>
+            <product id="2">
+                <rating>7</rating>
+            </product>
+        </products>
+    </client>
+    <client>
+        <info>
+            <name>Ahmed</name>
+            <mobile>01000202020</mobile>
+        </info>
+        <products>
+            <product id="1">
+                <rating>4</rating>
+            </product>
+            <product id="2">
+                <rating>6</rating>
+            </product>
+        </products>
+    </client>
+    <client>
+        <info>
+            <name>Mina</name>
+            <mobile>01110201039</mobile>
+        </info>
+        <products>
+            <product id="1">
+                <rating>10</rating>
+            </product>
+            <product id="2">
+                <rating>9</rating>
+            </product>
+        </products>
+    </client>
+</survey>
